@@ -3,6 +3,8 @@ TiTI
 
 Time to Idle Simulator of pooling service systems
 
+[![build](https://github.com/ICARUS-ICN/TiTI/actions/workflows/main.yml/badge.svg)](https://github.com/ICARUS-ICN/TiTI/actions/workflows/main.yml)
+
 ## Overview
 
 This tool simulates an pooling service discipline such as FDDI and it can use as Control Variates the Time to Idle process.
