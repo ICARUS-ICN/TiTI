@@ -3,7 +3,8 @@ TiTI
 
 Time to Idle Simulator of pooling service systems
 
-[![build](https://github.com/ICARUS-ICN/TiTI/actions/workflows/main.yml/badge.svg)](https://github.com/ICARUS-ICN/TiTI/actions/workflows/main.yml)
+[![build](https://github.com/ICARUS-ICN/TiTI/actions/workflows/main.yml/badge.svg)](https://github.com/ICARUS-ICN/TiTI/actions/workflows/main.yml) 
+[![DOI](https://zenodo.org/badge/386551946.svg)](https://zenodo.org/doi/10.5281/zenodo.10912537)
 
 ## Overview
 
