@@ -25,5 +25,5 @@ clock <transient period>
 ## Legal
 Copyright ⓒ 199x–2021 Andrés Suárez González <asuarez@det.uvigo.es>.
 
-This simulator is licensed under the GNU General Public License, version 2 (GPL-2.0). For information see LICENSE
+This simulator is licensed under the BSD 2-Clause License. For information see LICENSE.
 
